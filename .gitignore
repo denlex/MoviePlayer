@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+target
+*.bak
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.sha1
+*.sha1
+*.repositories
+
+
+# intelliJ #
+.idea
+*.iml
